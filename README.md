@@ -28,4 +28,7 @@ Wix Harmony Editor.
 ![Home page](screenshots/product.png)
 ### Product Page
 ![Home page](screenshots/contactus.png)
+### Product Page
+![Home page](screenshots/cart.png)
+
 
