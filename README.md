@@ -24,11 +24,14 @@ Wix Harmony Editor.
 ### Home page
 ![Home page](screenshots/Homepage.png.png)
 
-### Product Page
-![product page](screenshots/product.png.png)
 ### Contact Us Page
 ![contact page](screenshots/contactus.png)
+
+### Product Page
+![product page](screenshots/product.png.png)
+
 ### Cart Page
 ![cart page](screenshots/cart.png)
+
 
 
