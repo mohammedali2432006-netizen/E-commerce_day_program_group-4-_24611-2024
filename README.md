@@ -25,10 +25,10 @@ Wix Harmony Editor.
 ![Home page](screenshots/Homepage.png.png)
 
 ### Product Page
-![Home page](screenshots/product.png.png)
-### Product Page
-![Home page](screenshots/contactus.png)
+![product page](screenshots/product.png.png)
+### Contact Us Page
+![contact page](screenshots/contactus.png)
 ### Cart Page
-![Home page](screenshots/cart.png)
+![cart page](screenshots/cart.png)
 
 
