@@ -33,5 +33,19 @@ Wix Harmony Editor.
 ### Cart Page
 ![cart page](screenshots/cart.png)
 
+## Chalenges
+- Design a luxury brand look and keeping it consistent
+- Creating images ti match the brand identity
+- Learning how to structure a full website project
+- Organizing layout and spacing for a clean UI
+
+## lessons learn
+- leaarend how to beld a complete brand idetity
+- emproved UI/UX desin skills
+- gained experience in responsiv design
+- understood how branding effect user experience
+
+## life website link
+[click here to view the live website](https://reemosamasalih.wixsite.com/velora)
 
 
