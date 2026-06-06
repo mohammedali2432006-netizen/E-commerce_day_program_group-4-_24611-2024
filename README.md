@@ -19,3 +19,7 @@ Wix Harmony Editor.
 - Resopnsive layout for mobile and dessktop
 - High-quality skincare brand visuals and custom branding elements
 - Smooth navigaition between pages
+
+## Screenshots
+### Home page
+![Home page](screenshots/homepage.png)
