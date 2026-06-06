@@ -22,7 +22,7 @@ Wix Harmony Editor.
 
 ## Screenshots
 ### Home page
-![Home page](screenshots/Homepage.png)
+![Home page](screenshots/Homepage.png.png)
 
 ### Product Page
 ![Home page](screenshots/product.png)
